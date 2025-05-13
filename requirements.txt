@@ -1,0 +1,15 @@
+# Web Interface
+streamlit>=1.28.0
+
+# Data Processing & Visualization
+pandas>=2.1.0
+numpy>=1.24.0
+plotly>=5.18.0
+openpyxl>=3.1.0 
+
+# Date Handling
+python-dateutil>=2.8.2
+holidays>=0.34
+
+# PDF Generation
+reportlab>=4.0.0
